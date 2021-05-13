@@ -26,3 +26,5 @@ for person in people:
         print(f"The client {person} has been added to the flight.")
     else:
         print(f"The client {person} was not added to the flight. The flight is full.")
+        
+print("testing")
